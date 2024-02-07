@@ -11,7 +11,7 @@ In addition to my passion for creating new software projects, I am a DnD player 
 - 😄 Pronouns: He/him
 - 🖥️ I am looking for work!
 - 📫 How to reach me: [jackhenza@gmail.com](mailto:jackhenza@gmail.com)
-- 🔭 I’m currently working on improving old projects and making my [portfolio website](https://jackhenza.vercel.app/) using Next.js.
+- 🔭 I’m currently working on improving old projects and making my [portfolio website](https://www.jackhenza.com) using Next.js.
 - 🌱 I’m currently learning Next.js!
 -  ⚡ Fun fact: I built a tiny 🏡!
 
